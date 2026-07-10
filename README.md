@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./file_1783650447692.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Acheron-Media</h1>
+<h1 align="center">Acheron-MultiDevice-Media</h1>
 
 </p>
 <p align="center">
@@ -13,6 +13,6 @@
  
 
 # whatsapp-media
-Media from WhatsApp Bot Saya
-# Media Bot WhatsApp Acheron MultiDevice 
-# Creator EvelynDev
+Media from WhatsApp Bot Saya 
+# © Creator EvelynDev
+# HAK CIPTA DILINDUNGI!!!
