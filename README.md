@@ -1,3 +1,2 @@
 # whatsapp-media
-Media from WhatsApp Bot Acheron MultiDevice
-@EvelynArch 
+Media from WhatsApp Bot Saya
